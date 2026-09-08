@@ -70,7 +70,10 @@ The system architecture comprises three specialized nodes interacting within a s
 * **Overall Reliability Gain**:
   * The Multi-Agent System achieved a statistically significant increase in mean Critic Scores compared to the Single-Pass Baseline across all 10 benchmark topics.
 
-[Figure 1: Mean Critic Score Comparison Bar Chart (Baseline vs. MAS)]
+<p align="center">
+  <img src="./images/Growth-Feedback-Iterations.png" width="50%" alt="Architecture Diagram">
+</p>
+
 *(Description: Bar chart illustrating the average Critic Score and percentage reliability gain of MAS over Baseline)*
 
 * **Iterative Score Progression**:
@@ -82,7 +85,10 @@ The system architecture comprises three specialized nodes interacting within a s
 
 ### 4.2. Architecture Diagrams & Visualizations
 
-[Figure 2: MAS Workflow Architecture Diagram]
+<p align="center">
+  <img src="./images/MAS-Workflow-Architecture-Diagram.png" width="50%" alt="Architecture Diagram">
+</p>
+
 *(Description: Multi-Agent System Web Research System with feedback loops)*
 
 ---
