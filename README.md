@@ -69,6 +69,9 @@ The system architecture comprises three specialized nodes interacting within a s
 
 * **Overall Reliability Gain**:
   * The Multi-Agent System achieved a statistically significant increase in mean Critic Scores compared to the Single-Pass Baseline across all 10 benchmark topics.
+* **Iterative Score Progression**:
+  * Initial research outputs scoring between 4–6 points due to missing URLs or missing subtopics consistently improved to **8–10 points** after 1–3 feedback iterations.
+  * Research outputs starting at an initial mean score of ~6.00 points consistently converged to 8.80+ points upon completion.
 
 <p align="center">
   <img src="./image/Growth-Feedback-Iterations.png" width="50%" alt="Architecture Diagram">
@@ -76,12 +79,6 @@ The system architecture comprises three specialized nodes interacting within a s
 
 *(Description: Bar chart illustrating the average Critic Score and percentage reliability gain of MAS over Baseline)*
 
-* **Iterative Score Progression**:
-  * Initial research outputs scoring between 4–6 points due to missing URLs or missing subtopics consistently improved to **8–10 points** after 1–3 feedback iterations.
-  * Research outputs starting at an initial mean score of ~6.00 points consistently converged to 8.80+ points upon completion.
-
-[Graph 1: Reliability Growth Trend across Feedback Iterations]
-*(Description: Line graph illustrating normalized mean score growth and convergence across research completion stages)*
 
 ### 4.2. Architecture Diagrams & Visualizations
 
