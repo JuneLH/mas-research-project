@@ -1,0 +1,10 @@
+Please provide a detailed analysis of the differences and the relationships between the A2A protocol and the MCP protocol.
+How can AI psychological counseling and human psychological counseling be organically combined to improve the mental health of Koreans?
+Collect and organize relevant data on the top 10 insurance companies in South Korea by overall strength.
+Please provide a detailed comparative analysis of the technical roadmaps for HBM3e and HBM4. Compare the advanced packaging technologies used by key market players.
+Analyze and compare the compliance requirements and regulatory enforcement timelines between the EU AI Act and the US Executive Order on Safe, Secure, and Trustworthy AI.
+Conduct a comprehensive research on the current global market trends of Antibody-Drug Conjugate (ADC) platform technologies.
+Analyze the commercialization status and legal frameworks of Level 3 and Level 4 autonomous driving systems globally.
+Provide a comparative technical and economic analysis of next-generation Small Modular Reactors (SMRs).
+Evaluate implementation strategies for Zero Trust Architecture (ZTA) in cloud-native enterprise environments based on NIST SP 800-207 guidelines.
+Examine the impact of Chinese cross-border e-commerce platforms (such as AliExpress and Temu) on the South Korean retail and logistics landscape.
