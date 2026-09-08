@@ -43,6 +43,7 @@ The system architecture comprises three specialized nodes interacting within a s
                                       │
                                       ▼
                                Technical Writer ──> [Export .md] ──> [END]
+```
 
 * **Senior Researcher Node**:
   * Executes web searches via Tavily based on initial queries or refined '[CRITIC_FEEDBACK]' from the Critic.
